@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.cfe5f241.css",
+    "main.js": "/react-gh-pages/static/js/main.5d5a2e3a.js",
+    "static/js/787.fb771931.chunk.js": "/react-gh-pages/static/js/787.fb771931.chunk.js",
+    "static/media/slider.jpg": "/react-gh-pages/static/media/slider.0d185cef643d8c0b0447.jpg",
+    "static/media/lqapp.png": "/react-gh-pages/static/media/lqapp.dd053df46bb70ec31dca.png",
+    "static/media/color-sharp2.png": "/react-gh-pages/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/screens.jpg": "/react-gh-pages/static/media/screens.28b0be116ced627ffc8e.jpg",
+    "static/media/number.jpeg": "/react-gh-pages/static/media/number.f76a240bd1dacfd00d01.jpeg",
+    "static/media/banner-bg.png": "/react-gh-pages/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/castle.jpg": "/react-gh-pages/static/media/castle.72f4d37464326040a5bb.jpg",
+    "static/media/digitalWallet.jpg": "/react-gh-pages/static/media/digitalWallet.5966548e03bac149f067.jpg",
+    "static/media/proj1.jpg": "/react-gh-pages/static/media/proj1.7321d2abd11f56f2b42c.jpg",
+    "static/media/header-img.svg": "/react-gh-pages/static/media/header-img.400baa4260daac98f2b2b1ccf08761c2.svg",
+    "static/media/memory.jpeg": "/react-gh-pages/static/media/memory.6241a6454310294d0645.jpeg",
+    "static/media/proj3.jpg": "/react-gh-pages/static/media/proj3.f5135cead640c1b189ff.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/react-gh-pages/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/react-gh-pages/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/react-gh-pages/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/react-gh-pages/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/contact-img.svg": "/react-gh-pages/static/media/contact-img.62aa99e0f3b968b5d1ce9eb047f34fc7.svg",
+    "static/media/odina2.png": "/react-gh-pages/static/media/odina2.a89694ad752ceadab471.png",
+    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/nav-icon3.svg": "/react-gh-pages/static/media/nav-icon3.72cef43bc93b04f52e29f022ef720f8b.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "static/media/nav-icon1.svg": "/react-gh-pages/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
+    "static/media/nav-icon2.svg": "/react-gh-pages/static/media/nav-icon2.a39f0e5e47e442dafcc5c9c320f19f6f.svg",
+    "main.cfe5f241.css.map": "/react-gh-pages/static/css/main.cfe5f241.css.map",
+    "main.5d5a2e3a.js.map": "/react-gh-pages/static/js/main.5d5a2e3a.js.map",
+    "787.fb771931.chunk.js.map": "/react-gh-pages/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfe5f241.css",
+    "static/js/main.5d5a2e3a.js"
+  ]
+}
