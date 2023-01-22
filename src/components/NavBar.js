@@ -1,9 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Navbar, Nav, Container } from 'react-bootstrap';
-import logo from '../assets/img/odina2.png';
-import navIcon1 from '../assets/img/nav-icon1.svg';
-import navIcon2 from '../assets/img/nav-icon2.svg';
-import navIcon3 from '../assets/img/nav-icon3.svg';
+import logo from '../assets/img/sid.png';
 import { HashLink } from 'react-router-hash-link';
 
 export const NavBar = () => {
@@ -32,7 +29,7 @@ export const NavBar = () => {
     <Navbar expand='md' className={scrolled ? 'scrolled' : ''}>
       <Container>
         <Navbar.Brand href='/'>
-          <img src={logo} alt='Logo' />
+          <img src={logo} alt='Logo' style={{height: '6rem',width:'auto'}}/>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls='basic-navbar-nav'>
           <span className='navbar-toggler-icon'></span>
@@ -40,29 +37,28 @@ export const NavBar = () => {
         <Navbar.Collapse id='basic-navbar-nav'>
           <Nav className='ms-auto'>
             <Nav.Link
-              href='#home'
+              href='/Portfolio'
               className={
                 activeLink === 'home' ? 'active navbar-link' : 'navbar-link'
               }
-              onClick={() => onUpdateActiveLink('home')}
+              onClick={() => {}}
             >
               Home
             </Nav.Link>
             <Nav.Link
-              href='#projects'
+              // href='/Portfolio'
               className={
                 activeLink === 'projects' ? 'active navbar-link' : 'navbar-link'
               }
-              onClick={() => onUpdateActiveLink('projects')}
+              onClick={() => document.getElementById("project").scrollIntoView() }
             >
               Portfolio
             </Nav.Link>
             <Nav.Link
-              href='#skills'
               className={
                 activeLink === 'skills' ? 'active navbar-link' : 'navbar-link'
               }
-              onClick={() => onUpdateActiveLink('skills')}
+              onClick={() => window.scrollTo(0, document.body.scrollHeight)}
             >
               Contact
             </Nav.Link>

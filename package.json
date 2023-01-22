@@ -2,8 +2,9 @@
   "name": "personal-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://punnygod.github.io/Portfolio",
+  "homepage": "http://punnygod.github.io/Portfolio",
   "dependencies": {
+    "@emailjs/browser": "^3.10.0",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
@@ -24,6 +25,8 @@
     "react-router-dom": "^6.6.1",
     "react-router-hash-link": "^2.4.3",
     "react-scripts": "5.0.1",
+    "suneditor": "^2.44.3",
+    "suneditor-react": "^3.4.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {

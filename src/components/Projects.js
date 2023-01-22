@@ -9,22 +9,23 @@ import TrackVisibility from 'react-on-screen';
 
 export const Projects = () => {
   const projects = [
-    {
-      title: 'LQ Games',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt sollicitudin ligula et sagittis. In tempor metus quis magna sollicitudin congue. Nulla at erat eget arcu efficitur volutpat a id ipsum.',
-      imgUrl: projImg1,
-    },
+ 
     {
       title: 'LogIQids App',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt sollicitudin ligula et sagittis. In tempor metus quis magna sollicitudin congue. Nulla at erat eget arcu efficitur volutpat a id ipsum.',
+        'I was responsible for migrating from an older version of React native to a newer one with complete changes in all the screens of App giving the app a complete new look',
       imgUrl: projImg2,
+    },
+    {
+      title: 'LQ Games',
+      description:
+        'Created four brain-training games without using any game engine in react native which helped in boosting the average daily app usgage time and provided a gamified learning platform',
+      imgUrl: projImg1,
     },
     {
       title: 'Digital Wallet',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt sollicitudin ligula et sagittis. In tempor metus quis magna sollicitudin congue. Nulla at erat eget arcu efficitur volutpat a id ipsum.',
+        'Created a digital application for android where it performed transactions like sending and requesting money where user will get monthly as well as daily transactions.',
       imgUrl: projImg3,
     },
     // {

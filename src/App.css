@@ -41,6 +41,13 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
   line-height: normal;
 }
+.dangerhtmlbro table tr td {
+  border: 1px solid white;
+    min-width: 30%;
+    padding: 8px;
+    min-width: 15vh;
+    text-align: center;
+}
 
 p, a, li, button, ul {
   margin: 0;

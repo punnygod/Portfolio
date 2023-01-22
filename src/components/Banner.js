@@ -83,20 +83,10 @@ export const Banner = () => {
                   </span>
                   </h2>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Maecenas quis elementum eros. Curabitur ac sollicitudin
-                    metus. Fusce vitae pulvinar ante. Donec luctus elit sed mi
-                    condimentum vestibulum sed quis libero. Praesent viverra
-                    cursus lacus eget egestas. Praesent vel neque dolor. Nam
-                    eleifend bibendum tortor, non laoreet sapien faucibus eu. In
-                    elementum, urna ac rutrum varius, justo urna accumsan nulla,
-                    vitae facilisis est augue sit amet nisi. Nunc sed nisi
-                    lacus. Praesent maximus erat lectus, ac varius nisi blandit
-                    in. Morbi vel augue nec mi cursus fermentum vel ac est. Sed
-                    velit nulla, placerat mollis velit sed, ultricies vulputate
-                    orci. Vivamus vitae eleifend ligula.
+                  I am a frontend developer with more than 3 years of experience in React and React Native,skilled and experienced professional in building mobile and web applications.
+                  I have experience working with third-party libraries and APIs, as well as debugging and troubleshooting issues that may arise during the development process.I have a good understanding of mobile and web development optimizing the performance of the applications built for different devices and platforms. I have strong problem-solving skills and is able to work in a team environment. I am comfortable working with Git, and is familiar with the Agile development process. I am able to communicate effectively with other team members, and can provide guidance and mentorship to junior developers.
                   </p>
-                  <button onClick={() => console.log('connect')}>
+                  <button onClick={() => window.scrollTo(0, document.body.scrollHeight)}>
                     Let’s Connect <ArrowRightCircle size={25} />
                   </button>
                 </div>
