@@ -11,6 +11,7 @@ import Digital from './components/digital';
 // import { Contact } from "./components/Contact";
 import { Footer } from './components/Footer';
 import { Routes, Route } from 'react-router-dom';
+import Clone from './components/clone';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Route path='/games' element={<Games />} />
         <Route path='/lq' element={<LQApp />} />
         <Route path='/digital' element={<Digital />} />
+        <Route path='/clone' element={<Clone />} />
       </Routes>
       <Footer />
     </div>

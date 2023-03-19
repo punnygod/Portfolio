@@ -3,6 +3,7 @@ import { ProjectCard } from './ProjectCard';
 import projImg1 from '../assets/img/proj1.jpg';
 import projImg2 from '../assets/img/lq.png';
 import projImg3 from '../assets/img/proj3.jpg';
+import projImg4 from '../assets/img/proj4.png';
 import colorSharp2 from '../assets/img/color-sharp2.png';
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -19,14 +20,20 @@ export const Projects = () => {
     {
       title: 'LQ Games',
       description:
-        'Created four brain-training games without using any game engine in react native which helped in boosting the average daily app usgage time and provided a gamified learning platform',
+        'Developed four brain-training games without using any game engine in react native which helped in boosting the average daily app usgage time and provided a gamified learning platform',
       imgUrl: projImg1,
     },
     {
       title: 'Digital Wallet',
       description:
-        'Created a digital application for android where it performed transactions like sending and requesting money where user will get monthly as well as daily transactions.',
+        'Developed a digital application for android where it performed transactions like sending and requesting money , also user will get list of monthly as well as daily transactions.',
       imgUrl: projImg3,
+    },
+    {
+      title: 'Instagram Clone App',
+      description:
+        'An app similar to instagram where user can signup,upload photos,chat with other users and also like,comment on other users posts.' ,
+      imgUrl: projImg4,
     },
     // {
     //   title:'LQ Games',

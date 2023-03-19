@@ -7,7 +7,7 @@ export const ProjectCard = ({ title, description, imgUrl }) => {
     if (title == 'LQ Games') return '/games';
     else if (title == 'LogIQids App') return '/lq';
     else if (title == 'Digital Wallet') return '/digital';
-
+    else if (title.includes('Instagram')) return '/clone';
   };
   return (
     <Card style={{ width: '18rem', margin: '1rem 1rem', padding: '0rem' }}>
